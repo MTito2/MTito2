@@ -3,7 +3,7 @@
 ### Olá, meu nome é Mateus!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Mateus&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-da-cunha-tito/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-da-cunha-tito/)](https://www.linkedin.com/in/mateus-da-cunha-tito/)
 
 
 
